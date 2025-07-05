@@ -148,3 +148,14 @@ You will need the following software installed on your system:
 ## 📂 Project Structure
 
 The repository contains the essential source code and configuration files for the project.
+
+University-Management-System/
+├── src/
+│ ├── icons/
+│ │ └── (All image and icon files)
+│ └── university/management/system/
+│ └── (All .java source files)
+├── .gitignore
+├── build.xml
+├── manifest.mf
+└── README.md
