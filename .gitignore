@@ -1,0 +1,31 @@
+# NetBeans specific
+/nbproject/private/
+/nbproject/ide-file-targets.xml
+/nbproject/build-impl.xml
+/nbproject/genfiles.properties
+/nbproject/project.properties
+/nbproject/project.xml
+
+# Compiled class files and other generated folders
+/build/
+/dist/
+/test/
+
+# Other generated files
+/nbbuild/
+/nbdist/
+nb-configuration.xml
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile development
+/bin/
+/gen/
+
+# End-of-line markers
+*.DS_Store
+Thumbs.db
