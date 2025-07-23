@@ -148,7 +148,7 @@ You will need the following software installed on your system:
 ## 📂 Project Structure
 
 The repository contains the essential source code and configuration files for the project.
-
+```
 University-Management-System/
 ├── src/
 │ ├── icons/
@@ -159,3 +159,4 @@ University-Management-System/
 ├── build.xml
 ├── manifest.mf
 └── README.md
+```
